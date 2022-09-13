@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- :zap: I enjoy fitnes, programming, books, and motorcycles
+- 🌱 I’m addicted to learning and growing every day 
+- :earth_africa: I am currently a jr. Front-End developer continuing to grow as a programmer.
+
+
+
 <!--
 **asaulters/ASaulters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
