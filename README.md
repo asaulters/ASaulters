@@ -4,7 +4,10 @@
 - 🌱 I’m addicted to learning and growing every day 
 - :earth_africa: I am currently a jr. Front-End developer continuing to grow as a programmer.
 
+I've been programming since 2020. During covid, I ended up deciding to go back to learning to program. I have worked with HTML, CSS, JS, React, and a little bit of Node.js, Express. Currently, I am seeking my first Jr. Dev position. Here is how you can find me:
 
+Portfolio: https://adamsaulters.com
+LinkedIn: https://www.linkedin.com/in/adamsaulters/
 
 <!--
 **asaulters/ASaulters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
