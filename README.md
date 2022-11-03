@@ -2,7 +2,7 @@
 
 - :zap: I enjoy fitness, programming, books, and motorcycles
 - 🌱 I’m addicted to learning and growing every day 
-- :earth_africa: I am currently a jr. Front-End developer continuing to grow as a programmer.
+- :earth_africa: I am currently a Front-End developer continuing to grow as a programmer.
 
 I've been programming since 2020. During Covid, I ended up deciding to go back to learning to program. I have worked with HTML, CSS, JS, React, and a little bit of Node.js,  and Express. Currently, I am currently seeking a Front-End Dev position. Here is how you can find me:
 
