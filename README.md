@@ -4,7 +4,7 @@
 - 🌱 I’m addicted to learning and growing every day 
 - :earth_africa: I am currently a jr. Front-End developer continuing to grow as a programmer.
 
-I've been programming since 2020. During covid, I ended up deciding to go back to learning to program. I have worked with HTML, CSS, JS, React, and a little bit of Node.js, Express. Currently, I am seeking my first Jr. Dev position. Here is how you can find me:
+I've been programming since 2020. During Covid, I ended up deciding to go back to learning to program. I have worked with HTML, CSS, JS, React, and a little bit of Node.js,  and Express. Currently, I am currently seeking a Front-End Dev position. Here is how you can find me:
 
 Portfolio: https://adamsaulters.com <br/>
 LinkedIn: https://www.linkedin.com/in/adamsaulters/
