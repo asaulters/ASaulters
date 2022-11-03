@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :zap: I enjoy fitnes, programming, books, and motorcycles
+- :zap: I enjoy fitness, programming, books, and motorcycles
 - 🌱 I’m addicted to learning and growing every day 
 - :earth_africa: I am currently a jr. Front-End developer continuing to grow as a programmer.
 
