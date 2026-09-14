@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋 <br/>
 ⚡ Into fitness, programming, books, and motorcycles
 🌱 Addicted to learning and building things I can actually measure
 🌎 Applied AI PM, working through an 18-block roadmap that goes from building an evaluation harness to running a live external agent
