@@ -1,10 +1,11 @@
-### Hi there 👋
+Hi there 👋
+⚡ Into fitness, programming, books, and motorcycles
+🌱 Addicted to learning and building things I can actually measure
+🌎 Applied AI PM, working through an 18-block roadmap that goes from building an evaluation harness to running a live external agent
 
-- :zap: I enjoy fitness, programming, books, and motorcycles
-- 🌱 I’m addicted to learning and growing every day 
-- :earth_africa: I am currently a Front-End developer continuing to grow as a programmer.
+I've been programming since 2020, started during COVID and never stopped. Front-end work (HTML, CSS, JS, React, a little Node/Express) got me in the door, but most of what I build now is around actually operating AI agents: evaluation methodology, golden sets, LLM-as-judge validation, and proving whether an agent's output holds up instead of just looking right once.
 
-I've been programming since 2020. During Covid, I ended up deciding to go back to learning to program. I have worked with HTML, CSS, JS, React, and a little bit of Node.js,  and Express. Currently, I am currently seeking a Front-End Dev position. Here is how you can find me:
+Current build: agenteval, an evaluation harness for AI agents (Wilson confidence intervals, pass^k reliability testing, cross-model judge validation). Full write-ups, real results, and what's next are on my portfolio.
 
 Portfolio: https://adamsaulters.com <br/>
 LinkedIn: https://www.linkedin.com/in/adamsaulters/
